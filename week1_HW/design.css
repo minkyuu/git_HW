@@ -1,0 +1,72 @@
+.header {
+  margin-top: 70px;
+  height: 250px;
+  /* background-color: yellowgreen; */
+}
+
+.container {
+  margin: auto;
+  width: 800px;
+  height: 200px;
+  /* background-color: red; */
+}
+
+.pic {
+  float: left;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.pic img {
+  margin-top: 3px;
+  width: 180px;
+  height: 190px;
+}
+
+.top {
+  float: left;
+  padding: 10px;
+}
+
+.top h2 {
+  /* background-color: yellow; */
+  color: orangered;
+}
+
+#name {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.top ul{
+  margin-top: -10px;
+  /* background-color:red; */
+  line-height: 25px;
+  padding-left: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.body {
+  height: 200px;
+  margin-top: 10px;
+  clear: both;
+  /* background-color:blue; */
+}
+
+.body img {
+  width: 180px;
+  height: 180px;
+  margin-right: 10px;
+}
+
+.intro-block {
+  padding: 6px;
+}
+
+.intro-block h2{
+  color: orangered;
+}
+
+.introduction {
+  line-height: 25px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
